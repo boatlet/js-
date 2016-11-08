@@ -1,0 +1,19 @@
+{
+  "name": "js-design-pattern",
+  "version": "1.0.0",
+  "description": "《JavaScript设计模式与开发实践》的实践练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boatlet/js-design-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boatlet/js-design-pattern/issues"
+  },
+  "homepage": "https://github.com/boatlet/js-design-pattern#readme"
+}
